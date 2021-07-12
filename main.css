@@ -11,7 +11,12 @@ h1, h2, h3{
   line-height:1.2
 }
 
+a {
+  color: black;
+  background-color: white;
+}
+
 a:hover {
+  color: white;
   background-color: black;
-  color: white
 }
